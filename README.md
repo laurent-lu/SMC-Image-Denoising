@@ -94,4 +94,4 @@ If you use this code, please consider citing our work accordingly:
 
 ## Contact
 
-Feel free to send an e-mail to `j.randrianandrasana[at]gmail.com` or `laurent.lucas[at]univ-reims.fr` if you have any question.
+Feel free to send an e-mail to `mathieu.noizet[at]univ-reims.fr` or `laurent.lucas[at]univ-reims.fr` if you have any question.
