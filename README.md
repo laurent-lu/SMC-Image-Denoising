@@ -13,7 +13,7 @@ This repository provides three BSDF plugins for the Mitsuba 0.6 renderer (https:
 
 **Notes**: Supplied code and data have been tested and validated on Windows 10 MSVC 2017 64-bits.
 
-## Build instructions for Windows 10
+## Build instructions
 
 ### Prerequisities
 
@@ -34,15 +34,6 @@ In a Git Bash prompt:
 - $ cd mitsuba
 - $ git clone https://github.com/mitsuba-renderer/dependencies_win64 dependencies
 - $ cp /c/mitsuba/dependencies/lib/*.dll /c/mitsuba/dependencies/bin/
-
-### Installing SCons
-
-Mitsuba uses SCons (https://www.scons.org/) as its internal build system.
-
-To install SCons, uncompress the archive **C:/mitsuba/dependencies/scons-2.5.1.zip** and type the following commands in a VS2017 command prompt:
-
-- $ cd "C:\mitsuba\dependencies\scons-2.5.1"
-- $ python setup.py install
 
 ### Cloning the code attached to the paper
 
