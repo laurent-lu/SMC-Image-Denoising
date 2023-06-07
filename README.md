@@ -64,7 +64,7 @@ In this notebooks, you have the different command line to build the repository, 
 If you use this code, please consider citing our work accordingly: 
 
 ```
-@inproceedings{randrianandrasana:2021:tmblmr,
+@inproceedings{noizet:2023:smc-image-denoising,
  author = { Mathieu, Noizet and Robin, Rouphael and Stéphanie, Prévost and Hervé, Deleau and Luiz-Angelo, Steffenel and Lucas, Laurent},
  title = {{Spectral Monte Carlo Image Denoising}},
  journal = {ACM Transactions on Graphics (Proceedings SIGGRAPH)},
