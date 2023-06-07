@@ -29,6 +29,7 @@ TODO ---> attendre la reorganisation du git
 
 ### Building the solution
 
+#### With Docker
 To compile Mitsuba with our plugin solution, you must use this command line (available directly in a jupyter notebook)
 
 ```
@@ -45,6 +46,23 @@ cmake -GNinja
 ninja docstrings
 ninja
 source setpath.sh
+```
+#### Without Docker
+
+follow this instructions : 
+
+```
+sudo apt update
+sudo apt install -y clang libc++-dev libc++abi-dev cmake ninja-build libpng-dev libjpeg-dev libpython3-dev python3-distutils
+
+pip install clang==14.0.0
+pip install libclang==14.0.1
+sudo apt-get install -y clang-format clang-tidy clang-tools clang clangd libc++-dev libc++1 libc++abi-dev libc++abi1 libclang-dev libclang1 liblldb-dev libllvm-ocaml-dev libomp-dev libomp5 lld lldb llvm-dev llvm-runtime llvm python3-clang 
+
+
+pip install pybind11 pybind11_mkdoc
+sudo apt install -y mkdocs
+pip install mkdocs
 ```
 
 ### Running the code
