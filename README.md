@@ -32,7 +32,7 @@ TODO ---> attendre la reorganisation du git
 To compile Mitsuba with our plugin solution, you must use this command line (available directly in a jupyter notebook)
 
 ```
-cd folder_name
+cd smc-image-denoising
 mkdir build
 cd build
 cmake -GNinja
