@@ -67,6 +67,7 @@ pip install mkdocs
 
 ### Running the code
 
+#### With Jupyter Notebook
 To handle easly our code, we provide a jupyter notebook. In the container, start the jupyter notebook server with the following command line :
 
 ```
@@ -76,6 +77,14 @@ jupyter notebook --allow-root ./notebooks
 Then, open the demo.ipynb.
 
 In this notebooks, you have the different command line to build the repository, follow by different instruction to launch our denoiser in demo scene.
+
+#### Command Line
+
+We propose to use our solution with script.
+
+```
+python run.py --arguments
+```
 
 ## Citation
 
