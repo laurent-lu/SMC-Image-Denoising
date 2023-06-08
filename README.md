@@ -11,8 +11,6 @@ This repository provides our denoiser application  into the Mitsuba 3 renderer (
 
 ## Step by Step installation
 
-## Installation
-
 ### Prerequisities
 
 **Mandatory**
@@ -27,7 +25,7 @@ This repository provides our denoiser application  into the Mitsuba 3 renderer (
 
 - Docker 24.0.0 : https://www.docker.com/
 
-- A spectral image viewer to ease (for example : [Tev](https://github.com/Tom94/tev) or [XnView](https://www.xnview.com/fr/))
+- A spectral image viewer (for example : [Tev](https://github.com/Tom94/tev) or [XnView](https://www.xnview.com/fr/))
 
 - One or multiple Nvidia GPU(s) with a CUDA version equal or above 11.7
 
@@ -134,7 +132,7 @@ or
 
 - ```mitsuba -m cuda_spectral scenes/CB_nodenoiser.xml -o demo.exr```
 
-ImageMagick doesn't fully support OpenEXR. If you try to convert the EXR file into a PNG or a JPEG, it may results in anomalies and reduced visual data. We highly recommend Tev to view the channels.
+ImageMagick doesn't fully support OpenEXR. Trying to convert the EXR file into a PNG or a JPEG may result in anomalies and reduced visual data. We highly recommend Tev to view the channels.
 
 [results TODO]
 
