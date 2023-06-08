@@ -9,7 +9,7 @@ This repository provides our denoiser application  into the Mitsuba 3 renderer (
 
 **Notes**: Supplied code and data have been tested and validated on Linux (Ubuntu, debian, Manjaro) and Windows.
 
-## Step by Step installation
+## Step by Step installation
 
 ## Installation
 
