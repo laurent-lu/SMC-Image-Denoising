@@ -156,16 +156,20 @@ If you use this code, please consider citing our work accordingly:
 
 ```
 @inproceedings{noizet:2023:smc-image-denoising,
- author = { Mathieu, Noizet and Robin, Rouphael and Stéphanie, Prévost and Hervé, Deleau and Luiz-Angelo, Steffenel and Lucas, Laurent},
+ author = {Mathieu, Noizet and Robin, Rouphael and Stéphanie, Prévost and Hervé, Deleau and Luiz-Angelo, Steffenel and Lucas, Laurent},
  title = {{Spectral Monte Carlo Image Denoising}},
  journal = {ACM Transactions on Graphics (Proceedings SIGGRAPH)},
  volume = {XX},
  number = {X},
  month = {XXXX},
  year = {2023},
- doi = {}
+ doi = {10.1145/}
 }
 ```
+
+## Acknowledgements
+
+This work is part of the research program **LUCE** (project number ANR-21-CE33-0010), which is funded by the French national agency for scientific research (ANR). We thank the ROMEO computing center and the Image Center at URCA for their material contributions in high-performance computing and visualization resources.
 
 ## Contact
 
