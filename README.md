@@ -7,7 +7,7 @@ This is the code release attached to the paper [Spectral Monte Carlo Image Denoi
 
 This repository provides our denoiser application  into the Mitsuba 3 renderer (https://github.com/mitsuba-renderer/mitsuba3):
 
-**Notes**: Supplied code and data have been tested and validated on Linux (Ubuntu, debian, Manjaro) and Windows.
+**Notes**: Supplied code and data have been tested and validated on Linux (Ubuntu, Debian, Manjaro) and Windows.
 
 ## Step by Step installation
 
@@ -27,7 +27,7 @@ This repository provides our denoiser application  into the Mitsuba 3 renderer (
 
 - A spectral image viewer (for example : [Tev](https://github.com/Tom94/tev) or [XnView](https://www.xnview.com/fr/))
 
-- One or multiple Nvidia GPU(s) with a CUDA version equal or above 11.7
+- One or multiple Nvidia GPU(s) with a CUDA version equal or greater than 11.7
 
 ### Retrieving the code
 
