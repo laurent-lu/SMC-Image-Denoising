@@ -155,15 +155,21 @@ or
 If you use this code, please consider citing our work accordingly: 
 
 ```
-@inproceedings{noizet:2023:smc-image-denoising,
- author = {Mathieu, Noizet and Robin, Rouphael and Stéphanie, Prévost and Hervé, Deleau and Luiz-Angelo, Steffenel and Lucas, Laurent},
- title = {{Spectral Monte Carlo Image Denoising}},
+@inproceedings{
+ author = ,
+ title = ,
  journal = {ACM Transactions on Graphics (Proceedings SIGGRAPH)},
  volume = {XX},
  number = {X},
  month = {XXXX},
  year = {2023},
  doi = {10.1145/}
+}
+@techreport{noizet:2023:smc-image-denoising,
+  author      = "{Mathieu, Noizet and Robin, Rouphael and Stéphanie, Prévost and Hervé, Deleau and Luiz-Angelo, Steffenel and Lucas, Laurent}",
+  title       = "{{Spectral Monte Carlo Image Denoising}}",
+  institution = "University of Reims Champagne-Ardenne",
+  annote      = "Submitted to SIGGRAPH ASIA 2023"
 }
 ```
 
