@@ -163,6 +163,10 @@ If you use this code, please consider citing our work accordingly:
 }
 ```
 
+## Results
+
+The results can be viewed directly on an online application, available at the following address: http://35.226.203.18/
+
 ## Acknowledgements
 
 This work is part of the research program **LUCE** (project number ANR-21-CE33-0010), which is funded by the French national agency for scientific research (ANR). We thank the ROMEO computing center and the Image Center at URCA for their material contributions in high-performance computing and visualization resources.
