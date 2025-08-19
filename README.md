@@ -1,5 +1,5 @@
 # Spectral Monte Carlo Image Denoising
-This is the code release attached to the paper [Spectral Monte Carlo Image Denoising](https://hal.univ-reims.fr/) submitted to SIGGRAPH ASIA 2023.
+This is the code release attached to the paper [Spectral Monte Carlo Image Denoising](https://hal.univ-reims.fr/) submitted to Visual Computer.
 
 ![shotCam](misc/teaser.png)
 
@@ -159,7 +159,7 @@ If you use this code, please consider citing our work accordingly:
   author      = {Mathieu, Noizet and Robin, Rouphael and Stéphanie, Prévost and Hervé, Deleau and Luiz-Angelo, Steffenel and Lucas, Laurent},
   title       = {{Spectral Monte Carlo Image Denoising}},
   institution = {University of Reims Champagne-Ardenne},
-  annote      = {Submitted to SIGGRAPH ASIA 2023}
+  annotate = {Submitted to Visual Computer},
 }
 ```
 
