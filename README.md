@@ -155,11 +155,17 @@ or
 If you use this code, please consider citing our work accordingly: 
 
 ```
-@techreport{noizet:2023:smc-image-denoising,
-  author      = {Mathieu, Noizet and Robin, Rouphael and Stéphanie, Prévost and Hervé, Deleau and Luiz-Angelo, Steffenel and Lucas, Laurent},
-  title       = {{Spectral Monte Carlo Image Denoising}},
-  institution = {University of Reims Champagne-Ardenne},
-  annotate = {Submitted to Visual Computer},
+@article{Mathieu2026,
+  author    = {Noizet Mathieu and Robin Rouphael and Herv{\'e} Deleau and St{\'e}phanie Pr{\'e}vost and Luiz-Angelo Steffenel and Laurent Lucas},
+  title     = {Spectral Monte Carlo Denoising},
+  journal   = {The Visual Computer},
+  year      = {2026},
+  volume    = {42},
+  number    = {4},
+  pages     = {181},
+  doi       = {10.1007/s00371-026-04374-5},
+  url       = {https://doi.org/10.1007/s00371-026-04374-5},
+  issn      = {1432-2315}
 }
 ```
 
