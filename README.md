@@ -134,8 +134,6 @@ or
 
 ImageMagick doesn't fully support OpenEXR. Trying to convert the EXR file into a PNG or a JPEG may result in anomalies and reduced visual data. We highly recommend Tev to view the channels.
 
-[results TODO]
-
 ### Running Mitsuba (with the denoiser)
 
 The base Denoiser from Mitsuba is extended through the pybind11 implementation. You can either continue running the demo notebook or run the example script.
@@ -147,8 +145,6 @@ Commands :
 or
 
 - ```sh mitsuba_demo.sh```
-
-[results TODO]
 
 ## Citation
 
